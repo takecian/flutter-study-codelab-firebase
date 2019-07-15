@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "569641777333",
+    "firebase_url": "https://baby-names-app-db-56fd8.firebaseio.com",
+    "project_id": "baby-names-app-db-56fd8",
+    "storage_bucket": "baby-names-app-db-56fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569641777333:android:88e1b95f16b9b52d",
+        "android_client_info": {
+          "package_name": "com.takecian.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569641777333-vat9s0csdq6cd9avr9k7jrp7f838cjim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoH-DGh46b-cLwnKkfPuMFtNZBwK9U3Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569641777333-vat9s0csdq6cd9avr9k7jrp7f838cjim.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569641777333-4nkmpjagiafrr5bi4hrrqctreqrsjajj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.takecian.babyNames"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
