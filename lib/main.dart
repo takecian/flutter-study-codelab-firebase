@@ -42,6 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 
+
   Widget _buildList(BuildContext context, List<DocumentSnapshot> snapshot) {
     return ListView(
       padding: const EdgeInsets.only(top: 20.0),
